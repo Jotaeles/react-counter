@@ -1,1 +1,1 @@
-### Counter App with React and Redux
+# Counter App with React and Redux
